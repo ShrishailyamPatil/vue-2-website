@@ -3,7 +3,7 @@ var app = new Vue({
   data:{
     brand: 'Marvel',
     product: 'Hydra Poster',
-    image: 'hydra.jpg',
+    image: 'images/hydra.jpg',
     stock:20,
     present: true,
     save: '20%',
